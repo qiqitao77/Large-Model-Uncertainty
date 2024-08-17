@@ -1,1 +1,48 @@
 # Large-Model-Uncertainty
+
+## LLM (Large Language Model) Uncertainty
+---
+### Uncertainty Quantification and Calibration
+|Year|Venue|Title|Code|
+|:-:|:-:|-|:-:|
+|2024|ACL|[When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)|N.A.|
+|2024|ICML workshop|[Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems with Large Language Models](https://arxiv.org/abs/2406.07212)|N.A.|
+|2024|arxiv|[A Survey of Confidence Estimation and Calibration in Large Language Models](https://arxiv.org/abs/2311.08298)|N.A.|
+|2024|arxiv|[SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)|[code](https://github.com/xu1868/SaySelf)|
+|2024|arxiv|[Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/abs/2407.11282)|[code](https://github.com/qcznlp/uncertainty_attack)|
+|2024|ICLR|[Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)|[code](https://github.com/MiaoXiong2320/llm-uncertainty)|
+|2024|TMLR|[Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models](https://arxiv.org/abs/2305.19187)|[code](https://github.com/zlin7/UQ-NLG)|
+|2024|NAACL|[Uncertainty Quantification for In-Context Learning of Large Language Models](https://aclanthology.org/2024.naacl-long.184/)|[code](https://github.com/lingchen0331/UQ_ICL)|
+|2024|arxiv|[Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794)|[code](https://github.com/smartyfh/LLM-Uncertainty-Bench)|
+|2024|arxiv|[To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)|N.A.|
+|2024|UAI|[CSS: Contrastive Semantic Similarity for Uncertainty Quantification of LLMs](https://arxiv.org/abs/2406.03158)|[code](https://github.com/AoShuang92/css_uq_llms)|
+|2023|EMNLP|[Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/abs/2305.14975)|N.A.|
+|2023|EMNLP Findings|[Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs](https://arxiv.org/abs/2310.11689)|N.A.|
+|2023|ICLR|[Calibrating Sequence Likelihood Improves Conditional Language Generation](https://openreview.net/forum?id=0qSOodKmJaN)|N.A.|
+|2023|NeurIPS workshop|[Self-Evaluation Improves Selective Generation in Large Language Models](https://proceedings.mlr.press/v239/ren23a.html)|N.A.|
+|2023|arxiv|[SLiC-HF: Sequence Likelihood Calibration with Human Feedback](https://arxiv.org/abs/2305.10425)|N.A.|
+|2022|TMLR|[Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334)|N.A.|
+
+### Model Cascade
+|Year|Venue|Title|Code|
+|:-:|:-:|-|:-:|
+|2024|ICLR|[Language Model Cascades: Token-level uncertainty and beyond](https://arxiv.org/abs/2404.10136)|N.A.|
+|2024|ICLR|[Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/pdf/2310.03094.pdf)|[code](https://github.com/MurongYue/LLM_MoT_cascade)|
+|2023|NeurIPS|[When Does Confidence-Based Cascade Deferral Suffice?](https://arxiv.org/abs/2307.02764)|N.A.|
+
+## MLLM (Multi-modal Large Language Model) Uncertainty
+---
+|Year|Venue|Title|Code|
+|:-:|:-:|-|:-:|
+|2024|NAACL workshop|[Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models](https://arxiv.org/abs/2405.02917)|N.A.|
+|2024|arxiv|[Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/abs/2402.14418)|[code](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)|
+|2024|arxiv|[Decompose and Compare Consistency: Measuring VLMs’ Answer Reliability via Task-Decomposition Consistency Comparison](http://arxiv.org/abs/2407.07840)|N.A.|
+
+## CLIP Uncertainty
+---
+|Year|Venue|Title|Code|
+|:-:|:-:|-|:-:|
+|2024|ICML|[An Empirical Study Into What Matters for Calibrating Vision–Language Models](https://arxiv.org/abs/2402.07417)|N.A.|
+|2024|ICML|[Open-Vocabulary Calibration for Fine-tuned CLIP](https://arxiv.org/abs/2402.04655)|[code](https://github.com/ml-stat-Sustech/CLIP_Calibration)|
+|2023|NeurIPS|[A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)](https://arxiv.org/abs/2402.07410)|N.A.|
+|2024|arxiv|[Towards Calibrated Robust Fine-Tuning of Vision-Language Model](https://arxiv.org/abs/2311.01723)|[code](https://anonymous.4open.science/r/carot2024-BB43/README.md)|

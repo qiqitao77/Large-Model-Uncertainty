@@ -40,6 +40,7 @@
 ---
 |Year|Venue|Title|Code|
 |:-:|:-:|-|:-:|
+｜2024｜CVPR｜[Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2024/papers/Khan_Consistency_and_Uncertainty_Identifying_Unreliable_Responses_From_Black-Box_Vision-Language_Models_CVPR_2024_paper.pdf)｜N.A.｜
 |2024|NAACL workshop|[Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models](https://arxiv.org/abs/2405.02917)|N.A.|
 |2024|arxiv|[Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/abs/2402.14418)|[code](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)|
 |2024|arxiv|[Decompose and Compare Consistency: Measuring VLMs’ Answer Reliability via Task-Decomposition Consistency Comparison](http://arxiv.org/abs/2407.07840)|N.A.|

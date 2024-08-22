@@ -6,8 +6,10 @@
 |Year|Venue|Title|Code|
 |:-:|:-:|-|:-:|
 |2024|ICLR|[Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)|[code](https://github.com/MiaoXiong2320/llm-uncertainty)|
+|2024|ICML|[Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling](https://arxiv.org/abs/2311.08718)|[code](https://github.com/UCSB-NLP-Chang/llm_uncertainty)|
 |2024|ACL|[When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)|N.A.|
 |2024|NAACL|[Uncertainty Quantification for In-Context Learning of Large Language Models](https://aclanthology.org/2024.naacl-long.184/)|[code](https://github.com/lingchen0331/UQ_ICL)|
+|2024|NAACL|[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021)|[code](https://github.com/hlzhang109/icl-calibration)|
 |2024|NAACL|[R-Tuning: Instructing Large Language Models to Say ‘I Don’t Know’](https://aclanthology.org/2024.naacl-long.394/)|[code](https://github.com/shizhediao/R-Tuning)|
 |2024|TMLR|[Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models](https://arxiv.org/abs/2305.19187)|[code](https://github.com/zlin7/UQ-NLG)|
 |2024|UAI|[CSS: Contrastive Semantic Similarity for Uncertainty Quantification of LLMs](https://arxiv.org/abs/2406.03158)|[code](https://github.com/AoShuang92/css_uq_llms)|
@@ -44,6 +46,7 @@
 |2024|NAACL workshop|[Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models](https://arxiv.org/abs/2405.02917)|N.A.|
 |2024|arxiv|[Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/abs/2402.14418)|[code](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)|
 |2024|arxiv|[Decompose and Compare Consistency: Measuring VLMs’ Answer Reliability via Task-Decomposition Consistency Comparison](http://arxiv.org/abs/2407.07840)|N.A.|
+|2024|arxiv|[Certainly Uncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness](https://arxiv.org/abs/2407.01942)|N.A.|
 
 ## CLIP Uncertainty
 ---

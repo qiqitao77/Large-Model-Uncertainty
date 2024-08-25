@@ -8,6 +8,7 @@
 |2024|ICLR|[Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)|[code](https://github.com/MiaoXiong2320/llm-uncertainty)|
 |2024|ICML|[Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling](https://arxiv.org/abs/2311.08718)|[code](https://github.com/UCSB-NLP-Chang/llm_uncertainty)|
 |2024|ACL|[When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)|N.A.|
+|2024|ACL|[Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models](https://arxiv.org/abs/2307.01379)|[code](https://github.com/jinhaoduan/SAR)|
 |2024|NAACL|[Uncertainty Quantification for In-Context Learning of Large Language Models](https://aclanthology.org/2024.naacl-long.184/)|[code](https://github.com/lingchen0331/UQ_ICL)|
 |2024|NAACL|[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021)|[code](https://github.com/hlzhang109/icl-calibration)|
 |2024|NAACL|[R-Tuning: Instructing Large Language Models to Say ‘I Don’t Know’](https://aclanthology.org/2024.naacl-long.394/)|[code](https://github.com/shizhediao/R-Tuning)|

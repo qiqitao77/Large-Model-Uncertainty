@@ -37,6 +37,7 @@
 ### Selective Prediction
 |Year|Venue|Title|Code|
 |:-:|:-:|-|:-:|
+｜2024｜arxiv｜[Know Your Limits: A Survey of Abstention in Large Language Models](https://arxiv.org/abs/2407.18418)｜N.A.｜
 |2024|ICML workshop|[Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems with Large Language Models](https://arxiv.org/abs/2406.07212)|N.A.|
 |2023|EMNLP Findings|[Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs](https://arxiv.org/abs/2310.11689)|N.A.|
 

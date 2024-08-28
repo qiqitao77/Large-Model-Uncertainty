@@ -33,6 +33,7 @@
 |2024|ICLR|[Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/pdf/2310.03094.pdf)|[code](https://github.com/MurongYue/LLM_MoT_cascade)|
 |2023|NeurIPS|[When Does Confidence-Based Cascade Deferral Suffice?](https://arxiv.org/abs/2307.02764)|N.A.|
 |2024|arxiv|[Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement](https://arxiv.org/abs/2407.18370)|[code](https://github.com/jaehunjung1/cascaded-selective-evaluation)|
+|2024|arixv|[Model Cascading for Code: Reducing Inference Costs with Model Cascading for LLM Based Code Generation](https://arxiv.org/abs/2405.15842)|N.A.|
 
 ### Selective Prediction
 |Year|Venue|Title|Code|

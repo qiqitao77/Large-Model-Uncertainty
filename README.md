@@ -22,7 +22,9 @@
 |2024|arxiv|[Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/abs/2407.11282)|[code](https://github.com/qcznlp/uncertainty_attack)|
 |2024|arxiv|[Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794)|[code](https://github.com/smartyfh/LLM-Uncertainty-Bench)|
 |2024|arxiv|[To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)|N.A.|
-|2023|EMNLP|[Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/abs/2305.14975)|N.A.|
+|2024|arxiv|[Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs](https://arxiv.org/abs/2406.15927)|N.A.|
+|2023|EMNLP Findings|[Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/abs/2305.14975)|N.A.|
+|2023|ICLR|[Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664)|N.A.|
 |2023|ICLR|[Calibrating Sequence Likelihood Improves Conditional Language Generation](https://openreview.net/forum?id=0qSOodKmJaN)|N.A.|
 |2023|NeurIPS workshop|[Self-Evaluation Improves Selective Generation in Large Language Models](https://proceedings.mlr.press/v239/ren23a.html)|N.A.|
 |2023|arxiv|[SLiC-HF: Sequence Likelihood Calibration with Human Feedback](https://arxiv.org/abs/2305.10425)|N.A.|

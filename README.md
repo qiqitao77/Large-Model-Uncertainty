@@ -55,6 +55,7 @@
 |2024|arxiv|[Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/abs/2402.14418)|[code](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)|
 |2024|arxiv|[Decompose and Compare Consistency: Measuring VLMs’ Answer Reliability via Task-Decomposition Consistency Comparison](http://arxiv.org/abs/2407.07840)|N.A.|
 |2024|arxiv|[Certainly Uncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness](https://arxiv.org/abs/2407.01942)|N.A.|
+|2024|arxiv|[Selectively Answering Visual Questions](https://arxiv.org/abs/2406.00980)|N.A.|
 
 ## CLIP Uncertainty
 ---

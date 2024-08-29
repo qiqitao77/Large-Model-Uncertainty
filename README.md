@@ -6,6 +6,7 @@
 |Year|Venue|Title|Code|
 |:-:|:-:|-|:-:|
 |2024|ICLR|[Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)|[code](https://github.com/MiaoXiong2320/llm-uncertainty)|
+|2024|ICLR|[INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection](https://arxiv.org/pdf/2402.03744)|N.A.|
 |2024|ICML|[Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling](https://arxiv.org/abs/2311.08718)|[code](https://github.com/UCSB-NLP-Chang/llm_uncertainty)|
 |2024|ICML|[Can AI Assistants Know What They Don’t Know?](https://proceedings.mlr.press/v235/cheng24i.html)|[code](https://github.com/OpenMOSS/Say-I-Dont-Know)|
 |2024|ACL|[When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)|N.A.|

@@ -12,6 +12,7 @@
 |2024|ACL|[When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)|N.A.|
 |2024|ACL|[Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models](https://arxiv.org/abs/2307.01379)|[code](https://github.com/jinhaoduan/SAR)|
 |2024|ACL|[Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness](https://aclanthology.org/2024.acl-long.283.pdf)|N.A.|
+|2024|ACL|[Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models](https://aclanthology.org/2024.acl-long.20/)|[code](https://github.com/akkeshav/confidence_probablitiy_alignment)|
 |2024|NAACL|[Uncertainty Quantification for In-Context Learning of Large Language Models](https://aclanthology.org/2024.naacl-long.184/)|[code](https://github.com/lingchen0331/UQ_ICL)|
 |2024|NAACL|[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021)|[code](https://github.com/hlzhang109/icl-calibration)|
 |2024|NAACL|[R-Tuning: Instructing Large Language Models to Say ‘I Don’t Know’](https://aclanthology.org/2024.naacl-long.394/)|[code](https://github.com/shizhediao/R-Tuning)|
@@ -23,6 +24,8 @@
 |2024|arxiv|[Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794)|[code](https://github.com/smartyfh/LLM-Uncertainty-Bench)|
 |2024|arxiv|[To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)|N.A.|
 |2024|arxiv|[Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs](https://arxiv.org/abs/2406.15927)|N.A.|
+|2024|arxiv|[CLUE: Concept-Level Uncertainty Estimation for Large Language Models](https://arxiv.org/abs/2409.03021)|N.A.|
+|2024|arxiv|[Knowthe Unknown: An Uncertainty-Sensitive Method for LLM Instruction Tuning](https://arxiv.org/abs/2406.10099)|N.A.|
 |2023|EMNLP Findings|[Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://arxiv.org/abs/2305.14975)|N.A.|
 |2023|ICLR|[Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664)|N.A.|
 |2023|ICLR|[Calibrating Sequence Likelihood Improves Conditional Language Generation](https://openreview.net/forum?id=0qSOodKmJaN)|N.A.|
